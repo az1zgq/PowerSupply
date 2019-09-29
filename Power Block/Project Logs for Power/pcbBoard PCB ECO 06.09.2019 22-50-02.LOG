@@ -1,0 +1,13 @@
+Added Component: Designator=VD?(DFM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/df08m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "doc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/151/DOC000151037.pdf"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=VD?-1
+Added Pin To Net: NetName=NetC1_2 Pin=VD?-2
+Added Pin To Net: NetName=NetR1_2 Pin=VD?-3
+Added Pin To Net: NetName=NetVD?_4 Pin=VD?-4
+Added Net: Name=NetVD?_4
+Added Member To Class: ClassName=Schematic Member=Component VD? DF08M-E3/45
+Added Room: Name=Schematic
