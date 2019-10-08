@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=Net*_2 Pin=VD?-2
+Added Component: Designator=(DO-41)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net*_2 Pin=-2
+Added Pin To Net: NetName=NetC1_2 Pin=VD?-1
+Added Pin To Net: NetName=NetR3_1 Pin=VD?-2
+Added Pin To Net: NetName=Net_1 Pin=-1
+Added Pin To Net: NetName=Net_1 Pin=T1-5
+Added Net: Name=Net_1
+Added Member To Class: ClassName=Schematic Member=Component  1N5819
+Added Room: Name=Schematic

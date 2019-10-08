@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=Schematic Member=VD5
+Added Component: Designator=*(DO-41)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC4_1 Pin=*-2
+Change Net Name : Old Net Name=NetC4_1 New Net Name=Net*_2
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=OP1-1
+Added Pin To Net: NetName=Net*_1 Pin=R7-2
+Added Net: Name=Net*_1
+Added Member To Class: ClassName=Schematic Member=Component * 1N4730A
+Added Room: Name=Schematic
