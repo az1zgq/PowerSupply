@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=NetC4_2 Pin=XS2-2
-Added Pin To Net: NetName=NetC4_2 Pin=XS2-4
-Added Member To Class: ClassName=Schematic Member=Component C3 5n6
-Added Member To Class: ClassName=Schematic Member=Component R2 1M
-Added Member To Class: ClassName=Schematic Member=Component XS2 USB 2.0
-Added Room: Name=Schematic
