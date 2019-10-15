@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetR1_2 Pin=VD?-3
+Added Pin To Net: NetName=NetR1_2 Pin=VD?-4
+Added Pin To Net: NetName=NetVD?_3 Pin=VD?-3
+Added Pin To Net: NetName=NetVD?_3 Pin=XS1-1
+Added Net: Name=NetVD?_3
+Added Room: Name=Schematic
