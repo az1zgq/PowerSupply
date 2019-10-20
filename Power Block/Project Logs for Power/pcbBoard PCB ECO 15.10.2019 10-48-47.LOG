@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=NetVD?_3 Pin=XS1-1
-Removed Pin From Net: NetName=NetR1_1 Pin=XS1-2
-Added Pin To Net: NetName=NetR1_1 Pin=XS1-1
-Added Pin To Net: NetName=NetVD?_3 Pin=XS1-2
