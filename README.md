@@ -16,6 +16,7 @@
 - [pcbDrawing](pcbDrawing)
     - pcbDrawing.dwg
     - [pdfDrawing](pcbDrawing/pdfDrawing)
+        - [ИУ4.11.03.03.52.16.003 Э3](pcbDrawing/pdfDrawing/%D0%98%D0%A34.11.03.03.52.16.003%20%D0%901.pdf)
 - [pcbBoard](pcbBoard)
     - powerSupply.PrjPcb
     - Schematic.SchDoc
