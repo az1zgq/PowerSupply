@@ -18,8 +18,8 @@
     - [pdfDrawing](pcbDrawing/pdfDrawing)
         - [ИУ4.11.03.03.19.05.02.04.003 Э3](pcbDrawing/pdfDrawing/%D0%98%D0%A34.11.03.03.52.16.003%20%D0%901.pdf)
         - [ИУ4.11.03.03.19.05.02.04.001 Э1](pcbDrawing/pdfDrawing/%D0%98%D0%A34.11.03.03.52.16.001%20%D0%903.pdf)
-        - [ИУ4.11.03.03.19.05.02.04.009 СП 1 лист](pcbDrawing/pdfDrawing/%D0%98%D0%A34.11.03.03.19.05.02.04.009%20%D0%A1%D0%9F%201%20%D0%BB%D0%B8%D1%81%D1%82.pdf)
-        - [ИУ4.11.03.03.19.05.02.04.009 СП 2 лист](pcbDrawing/pdfDrawing/%D0%98%D0%A34.11.03.03.19.05.02.04.009%20%D0%A1%D0%9F%202%20%D0%BB%D0%B8%D1%81%D1%82.pdf)
+        - [ИУ4.11.03.03.19.05.02.04.003 ПЭ3](pcbDrawing/pdfDrawing/%D0%98%D0%A34.11.03.03.19.05.02.04.003%20%D0%9F%D0%AD3.pdf)
+
 
 - [pcbBoard](pcbBoard)
     - powerSupply.PrjPcb
