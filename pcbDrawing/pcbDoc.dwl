@@ -1,3 +1,0 @@
-azizg
-DESKTOP-FQ5QAPC 
-25 но€бр€ 2019 г.  18:44:00
