@@ -24,6 +24,7 @@
         - [ИУ4.11.03.03.19.05.02.04.006 Э1с ](pcbDrawing/pdfDrawing/%D0%98%D0%A34.11.03.03.19.05.02.04.006.pdf)
         - [ИУ4.11.03.03.19.05.02.04.008 СП](pcbDrawing/pdfDrawing/%D0%98%D0%A34.11.03.03.19.05.02.04.008%20%D0%A1%D0%9F.pdf)
         - [experiment](pcbDrawing/pdfDrawing/experiment.pdf)
+        - [RPZ](pcbDrawing/pdfDrawing/RPZ.pdf)
         
         
         
